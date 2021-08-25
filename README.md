@@ -10,6 +10,8 @@ Coming out of the pandemic, I feel I have now an up-to-date skill set with a goo
 
 I find ICT an exciting field to work in, and strongly believe in lifelong learning.  I take at least 10 % of my time to stay up to date with the latest technologies of my choice, and find the road towards the goal is as rewarding as the end result.  While trained as an electrical engineer, I also hold degrees in international development and philosophy.  
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)]
+
 ## Some quick facts
 
 - 🔭 I’m currently working on my next.js portfolio, next.js literary podcast, maintenance jobs
