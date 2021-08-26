@@ -31,7 +31,7 @@ Before that, my coding was equally divided between Microsoft and PHP. I started 
 
 ![.NET](https://img.shields.io/badge/.NET-512db4?style=for-the-badge&logo=.NET&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-##CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)
 
 At the other hand, in PHP I started with Joomla and Moodle, dabbled in Drupal and Wordpress, and finally found CakePHP, CodeIgniter and Laravel the most effective platforms.  PHP, although not fashionable, is not dead, and the advent of PHP8 shows it manages to stay relevant.   
