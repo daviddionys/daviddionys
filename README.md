@@ -18,13 +18,13 @@ Coming out of the pandemic, I feel I have now an up-to-date skill set with a goo
 
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/ApolloGraphQL-000000?style=for-the-badge&logo=ApolloGraphQL&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
 
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?style=for-the-badge&logo=Next.js&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=InkScape&logoColor=white)
-![Dark Reader](https://img.shields.io/badge/Dark Reader-141e24?style=for-the-badge&logo=DarkReader&logoColor=white)
+![Dark Reader](https://img.shields.io/badge/DarkReader-141e24?style=for-the-badge&logo=DarkReader&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Next.js&logoColor=white)
 
 Before that, my coding was equally divided between Microsoft and PHP. I started back in 1999 with the now ancient VB 6.0 to evolve towards C#, ASP.NET MVC and Razor in combination with SQL Server.  
